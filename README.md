@@ -2,7 +2,7 @@
     <img src="https://github.com/Manojkumar8497/Budget-Calculator/blob/master/src/assets/img/angular.svg" alt="Logo" width=400 height=300>
 
   <h1 align="center">Budget Calculator Application</h1>
-  <p align="center">This is an Budget calculator application that is developed by Angular and It helps to Manage the budget.</p>
+  <p align="center">This is an Budget calculator application that is developed by Angular and It helps to Manage the budget. I've followed a tutorial by Devstackr youtube channel.</p>
 </p>
 
 ## Demo
